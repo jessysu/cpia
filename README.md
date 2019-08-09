@@ -1,3 +1,3 @@
 # Channel Painters in Action
 
-![](/output/gif/Bus_starry_L9.gif)
+![Bus Starry-Night @ l=7](/data/output/gif/Bus_starry_L9.gif)
