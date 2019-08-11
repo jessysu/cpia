@@ -4,6 +4,11 @@ In different styles
 
 <img src="/data/output/gif/Cars_udnie_L9_blank_forward_background.gif" width="256"><img src="/data/output/gif/Cars_starry_L9.gif" width="256"><img src="/data/output/gif/Cars_rain_L9.gif" width="256">
 
+On different generative networks
+
+<img src="/data/output/gif/Cars_udnie_L9_blank_forward_background.gif" width="256"><img src="/data/output/gif/Cars_starry_L9.gif" width="256"><img src="/data/output/gif/Cars_rain_L9.gif" width="256">
+
+
 Focus more on object(s)
 
 
