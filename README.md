@@ -14,6 +14,12 @@ At different layers of the network
 
 <img src="/data/output/gif/volcano_L4_640.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L6_512.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L7_512.gif" width="180">
 
+Closer to the final layer (with RGB channels)
+
+<img src="/data/output/gif/volcano_L8_256.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L9_256.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L10_128.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L11_128.gif" width="180">
+
+
+
 Focus more on object(s)
 
 
