@@ -6,7 +6,7 @@ In different styles
 
 On different generative networks
 
-<img src="/data/output/gif/Cars_udnie_L9_blank_forward_background.gif" width="256"><img src="/data/output/gif/Cars_starry_L9.gif" width="256"><img src="/data/output/gif/Cars_rain_L9.gif" width="256">
+<img src="/data/output/gif/volcano_L5_640.gif" width="200"><img src="/data/output/gif/vase_L5_512.gif" width="200"><img src="/data/output/gif/daisy_L5_512.gif" width="200">
 
 
 Focus more on object(s)
