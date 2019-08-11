@@ -6,8 +6,13 @@ In different styles
 
 On different generative networks
 
-<img src="/data/output/gif/volcano_L5_640.gif" width="200">&nbsp; <img src="/data/output/gif/vase_L5_512.gif" width="200">&nbsp; <img src="/data/output/gif/daisy_L5_512.gif" width="200">
+<img src="/data/output/gif/volcano_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L5_512.gif" width="180">&nbsp; <img src="/data/output/gif/daisy_L5_512.gif" width="180">
 
+At different layers of the network
+
+<img src="/data/output/gif/vase_L4_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L6_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L7_512.gif" width="180">
+
+<img src="/data/output/gif/volcano_L4_640.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L6_512.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L7_512.gif" width="180">
 
 Focus more on object(s)
 
