@@ -1,5 +1,7 @@
 # Channel Painters in Action
 
+<img src="/data/source/Backyard.jpg" width="256">&nbsp; <img src="/data/output/gif/backyard_L9.gif" width="256">
+
 In different styles
 
 <img src="/data/output/gif/Cars_udnie_L9_blank_forward_background.gif" width="256">&nbsp; <img src="/data/output/gif/Cars_starry_L9.gif" width="256">&nbsp; <img src="/data/output/gif/Cars_rain_L9.gif" width="256">
