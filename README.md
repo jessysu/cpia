@@ -6,7 +6,12 @@ In different styles
 
 <img src="/data/output/gif/Cars_udnie_L9_blank_forward_background.gif" width="256">&nbsp; <img src="/data/output/gif/Cars_starry_L9.gif" width="256">&nbsp; <img src="/data/output/gif/Cars_rain_L9.gif" width="256">
 
-On different generative networks
+Stroke map extensions
+
+<img src="/data/output/gif/Cars_udnie_L9_blank_forward_foreground.gif" width="256">&nbsp; <img src="/data/output/gif/Cars_wave_L9_place_forward_background.gif" width="256">&nbsp; <img src="/data/output/gif/Cars_wave_L9_place_reverse_foreground.gif" width="256">
+
+
+On different generative networks (very channel-rich at the operation layer)
 
 <img src="/data/output/gif/volcano_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L5_512.gif" width="180">&nbsp; <img src="/data/output/gif/daisy_L5_512.gif" width="180">
 
@@ -16,7 +21,7 @@ At different layers of the network
 
 <img src="/data/output/gif/volcano_L4_640.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L6_512.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L7_512.gif" width="180">
 
-Closer to the final layer (with RGB channels)
+Closer to the final layer (with less channels at the operation layer)
 
 <img src="/data/output/gif/volcano_L8_256.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L9_256.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L10_128.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L11_128.gif" width="180">
 
