@@ -30,9 +30,12 @@ On different photos/objects
 
 <img src="/data/output/gif/Bento_udnie_L9.gif" width="256">&nbsp; <img src="/data/output/gif/Discover_starry_L7.gif" width="256">&nbsp; <img src="/data/output/gif/Bus_wave_L9.gif" width="256">&nbsp; <img src="/data/output/gif/Fastrail_rain_L9_20.gif" width="256">
 
-Write MNIST digits (VAE)
+Write MNIST digits over VAE
 
 ![](/data/output/gif/VAE_MNIST.gif)
 
 
+### References
+
+TBA
 
