@@ -10,7 +10,7 @@ On different generative networks (very channel-rich at the operation layer)
 
 <img src="/data/output/gif/volcano_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L5_512.gif" width="180">&nbsp; <img src="/data/output/gif/daisy_L5_512.gif" width="180">
 
-At different layers of the network
+At different layers of the network (from former to latter)
 
 <img src="/data/output/gif/vase_L4_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L6_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L7_512.gif" width="180">
 
