@@ -10,13 +10,13 @@ On different generative networks (very channel-rich at the operation layer)
 
 <img src="/data/output/gif/volcano_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L5_512.gif" width="180">&nbsp; <img src="/data/output/gif/daisy_L5_512.gif" width="180">
 
-At different layers of the network (from former to latter)
+At different layers of the network, along the forward path
 
 <img src="/data/output/gif/vase_L4_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L6_640.gif" width="180">&nbsp; <img src="/data/output/gif/vase_L7_512.gif" width="180">
 
 <img src="/data/output/gif/volcano_L4_640.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L5_640.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L6_512.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L7_512.gif" width="180">
 
-Closer to the final layer (with less channels at the operation layer)
+Toward the final layers (with less channels)
 
 <img src="/data/output/gif/volcano_L8_256.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L9_256.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L10_128.gif" width="180">&nbsp; <img src="/data/output/gif/volcano_L11_128.gif" width="180">
 
