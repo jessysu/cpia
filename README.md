@@ -1,5 +1,7 @@
 # Channel Painters in Action
 
+#### Work in progress
+
 <img src="/data/source/Backyard.jpg" width="256">&nbsp; <img src="/data/output/gif/backyard_L9.gif" width="256">
 
 In different styles
