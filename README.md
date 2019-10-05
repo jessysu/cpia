@@ -2,7 +2,7 @@
 
 (Work in progress)
 
-[Colab link](https://colab.research.google.com/github/jessysu/cpia/blob/master/CPIA_demo_on_BigGAN.ipynb)
+Run the demo in [Colab](https://colab.research.google.com/github/jessysu/cpia/blob/master/CPIA_demo_on_BigGAN.ipynb)
 
 <img src="/data/source/Backyard.jpg" width="256">&nbsp; <img src="/data/output/gif/backyard_L9.gif" width="256">
 
