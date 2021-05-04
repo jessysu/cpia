@@ -39,7 +39,7 @@ Write MNIST digits over VAE
 ![](/data/output/gif/VAE_MNIST.gif)
 
 
-### References
+### More Detail?
 
-TBA
+[Channel Decomposition into Painting Actions](https://arxiv.org/abs/1908.04694)
 
