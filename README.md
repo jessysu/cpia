@@ -1,8 +1,8 @@
 # Channel Painters in Action
 
-(Work in progress)
 
-Run the demo in [Colab](https://colab.research.google.com/github/jessysu/cpia/blob/master/CPIA_demo_on_BigGAN.ipynb)
+
+Run the demo in [Colab](https://colab.research.google.com/drive/15HBK1z3CIhW_DxG0_ITRkdgAVZPVk_QZ?usp=sharing)
 
 <img src="/data/source/Backyard.jpg" width="256">&nbsp; <img src="/data/output/gif/backyard_L9.gif" width="256">
 
