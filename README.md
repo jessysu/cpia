@@ -1,6 +1,6 @@
 # Channel Painters in Action
 
-
+#### The channel painter decomposes a convolutional layer of the deep neural network, and turns the input image into a painting animation. It works on top of the CNN-based generative networks, including the style transformers.
 
 Run the demo in [Colab](https://colab.research.google.com/drive/15HBK1z3CIhW_DxG0_ITRkdgAVZPVk_QZ?usp=sharing)
 
