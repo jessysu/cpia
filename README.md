@@ -1,5 +1,7 @@
 # Channel Painters in Action
 
+[Update 1/18/24] Visit [Latent Painter](https://latentpainter.github.io/) for a text-2-image generative AI painter driven by Stable Diffusion
+
 #### The channel painter decomposes a convolutional layer of the deep neural network, and turns the input image into a painting animation. It works on top of the CNN-based generative networks, including the style transformers.
 
 Run the demo in [Colab](https://colab.research.google.com/drive/15HBK1z3CIhW_DxG0_ITRkdgAVZPVk_QZ?usp=sharing)
